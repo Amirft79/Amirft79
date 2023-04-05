@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amirft79
-- 👀 I’m interested in android development with java and kotlin
-- 🌱 I’m currently learning java se
+- 👀 I’m interested in android development with java and kotlin also backend development with java 
+- 🌱 I’m currently learning golang
 
 
 <!---
